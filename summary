@@ -1,0 +1,26 @@
+main dashboead
+	-LOGIN AS ADMIN
+		DISPLAY ALL THE NAMES OF THE USERS
+	-Sign up as a user
+		1. enter and insert into table values
+	-LOGIN AS USER
+		1. Main login dashboard 
+			nav bar:
+				profile info: 
+                    info
+                    update details
+                my trasanctions:
+                    dropdowmn:
+                        profit
+                        loss
+                my portfolio: 
+                    list of all the stocks inversted in
+                    add
+                    update
+                my brokers:
+                    add brokers
+                    update
+                    delete
+                    
+
+
